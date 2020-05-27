@@ -132,9 +132,9 @@ Silence on any consensus decision is implicit agreement and equivalent to explic
 
 Consensus decisions can never override or go against the spirit of an earlier explicit vote.
 
-If any [team member](#team-members) raises objections, the team members work together towards a solution that all involved can accept. This solution is again subject to lazy consensus.
+If any [team member](#team-members) raises objections, the team members work together towards a solution that all involved can accept. This solution is again subject to lazy consensus. Team members understand consensus in the spirit of [RFC7282](https://tools.ietf.org/html/rfc7282), including the notion that a consensus may be “rough”, which is the case if all objections are addressed but not necessarily accommodated.
 
-In case no consensus can be found, but a decision one way or the other must be made, any [team member](#team-members) may call a formal [majority vote](#majority-vote).
+If there is a disgreement whether all objections have been addressed, but a decision one way or the other must be made, any [team member](#team-members) may call a formal [majority vote](#majority-vote).
 
 ### Majority vote
 
